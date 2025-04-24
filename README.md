@@ -4,10 +4,6 @@ A complete end-to-end machine learning project that detects fraudulent credit ca
 
 ---
 
-## 📁 Project Structure
-├── creditcard.csv # Input dataset ├── models/ # Saved model files and metadata ├── preprocessing/ # Scaling and feature selection objects ├── notebooks/ # EDA and modeling notebooks ├── streamlit_app.py # Main Streamlit dashboard ├── utils/ # Helper functions for training & evaluation ├── requirements.txt # Project dependencies └── README.md # Project documentation
-
-
 ---
 
 ## 📌 Methodology Overview
